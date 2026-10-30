@@ -1,0 +1,10 @@
+app
+app.exe
+*.o
+build/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
